@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">To do App</string>
+    <string name="compra_form_ejemplo">Wash the car</string>
+    <string name="compra_form_agregar" >Add</string>
+    <string name="logo">Logo</string>
+    <string name="compra_form_eliminar">Delete</string>
+</resources>

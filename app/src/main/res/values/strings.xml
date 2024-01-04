@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Compras App</string>
+    <string name="compra_form_ejemplo">Lavar el auto</string>
+    <string name="compra_form_agregar" >Agregar compra</string>
+    <string name="logo">Logo</string>
+    <string name="compra_form_eliminar">Eliminar compra</string>
+</resources>
